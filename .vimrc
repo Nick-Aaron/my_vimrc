@@ -1,0 +1,15 @@
+set nu
+syntax enable
+syntax on
+colorscheme torte
+set mouse=a
+set selection=exclusive
+set selectmode=mouse,key
+set showmatch
+set nocompatible
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set autoindent
+set cindent
+set expandtab
